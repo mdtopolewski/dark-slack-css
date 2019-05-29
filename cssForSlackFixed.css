@@ -1018,7 +1018,7 @@ ts-message.active .meta.msg_inline_file_preview_toggler a, ts-message.message--f
 
 ts-message.is_pinned { background: rgba(0, 0, 0, 0.15); }
 
-ts-message .timestamp { color: #949494; }
+ts-message .timestamp { color: #e6e6e6; }
 
 ts-message .temp_msg_controls { color: #949494; }
 
@@ -2029,7 +2029,7 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .tab_container .star_item .message .actions .btn::after, .tab_container .star_item ts-message .actions .btn::after, .tab_container .file_list_item .actions .btn::after, .tab_container .file_comment_item .actions .btn::after { border-color: #363636; }
 
-.tab_container .star_item ts-message .timestamp { color: #949494; }
+.tab_container .star_item ts-message .timestamp { color: #e6e6e6; }
 
 .tab_container .file_list_item:focus, .tab_container .file_list_item:hover { background-color: #222; border-color: #363636; }
 
@@ -2209,7 +2209,7 @@ span.match { background: rgba(191, 54, 12, 0.25); }
 
 .top_results_search_message_result.duplicate { background-color: #363636; }
 
-.top_results_search_message_result .timestamp { color: #949494; }
+.top_results_search_message_result .timestamp { color: #e6e6e6; }
 
 .top_results_search_message_result .channel { color: #949494; }
 
@@ -2317,7 +2317,7 @@ span.match { background: rgba(191, 54, 12, 0.25); }
 
 .c-keyboard_key { background: #545454; border-color: #828282; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25); color: #e6e6e6; }
 
-.tab_container .star_item .message .timestamp, .tab_container .star_item ts-message .timestamp { color: #949494; }
+.tab_container .star_item .message .timestamp, .tab_container .star_item ts-message .timestamp { color: #e6e6e6; }
 
 #member_preview_scroller a:not(.member_name):not(.current_status_preset_option), .team_list_item a:not(.member_name):not(.current_status_preset_option) { color: #949494; }
 
