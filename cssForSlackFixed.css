@@ -1585,7 +1585,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .dense_theme ts-message { color: #e6e6e6; }
 
-.dense_theme ts-message.first .message_gutter .timestamp, .dense_theme ts-message.selected .message_gutter .timestamp { color: #949494; }
+.dense_theme ts-message.first .message_gutter .timestamp, .dense_theme ts-message.selected .message_gutter .timestamp { color: #e6e6e6; }
 
 .dense_theme ts-message .message_content .message_current_status { border-color: #363636; }
 
